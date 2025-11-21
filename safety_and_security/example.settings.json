@@ -1,0 +1,18 @@
+{
+  "github.copilot.enable": {
+      "*": false,
+      "plaintext": false,
+      "markdown": false,
+      "scminput": false,
+      "html": false
+  },
+  "github.copilot.editor.enableAutoCompletions": false,
+  "settingsSync.ignoredExtensions": [
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "openai.chatgpt"
+  ],
+  "extensions.ignoreRecommendations": true,
+  "extensions.autoUpdate": false,
+  "workbench.enableExperiments": false
+}
