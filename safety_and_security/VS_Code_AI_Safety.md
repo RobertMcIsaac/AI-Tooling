@@ -146,8 +146,9 @@ If team members use their personal GitHub accounts on work devices:
 
 They should:
 
-✅ Only use GitHub within the Work (No AI) VS Code profile
-❌ Never install AI extensions in that profile
+✅ Only use GitHub within the Work (No AI) VS Code profile\
+❌ Never install AI extensions in that profile\
+
 
 Logging into GitHub alone should not expose code to AI.
 The risk comes ***specifically from AI extensions***.
